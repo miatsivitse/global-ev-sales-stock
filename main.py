@@ -544,7 +544,7 @@ world_filtered_df = evcars[(evcars['region'] == 'World') & (evcars['parameter'] 
 x = world_filtered_df[['year','powertrain']]
 x = pd.get_dummies(x, columns =['powertrain'], drop_first=False)
 Y = world_filtered_df['value']
-world_filtered_df.head()
+# world_filtered_df.head()
 
 x_train, x_test, Y_train, Y_test = train_test_split(x, Y, test_size = 0.2, random_state = 42)
 
