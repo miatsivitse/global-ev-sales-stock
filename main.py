@@ -696,7 +696,7 @@ sonu2.update_layout(
 )
 
 # Show the graph
-sonu2.show()
+# sonu2.show()
 
 # Predict using each model
 linear_pred = linear_model.predict(x)
