@@ -738,6 +738,7 @@ sonu3.update_layout(
 """## DASH LAYOUT"""
 
 app = Dash(__name__)
+server = app.server
 
 app.layout = html.Div([
     html.H1("EV Data Dash App", style={'text-align': 'center'}),
