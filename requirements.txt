@@ -1,0 +1,8 @@
+numpy
+pandas
+dash
+plotly
+scikit-learn
+xgboost
+matplotlib
+gunicorn
