@@ -837,7 +837,7 @@ app.layout = html.Div([
                 dcc.Graph(id='number-new-EV', figure=jon1)
             ]),
             html.Div([
-                html.H2("Replicated Graph 6"),
+                html.H2("Replicated Visual 6"),
                 html.P("This visualization shows the proportion of ALL car sales that are EVs, between 2010 and 2023. The big takeaway here is that, despite the explosive growth"
                 "of EV car sales in recent years, it is still very much a small part of the overall global auto market."),
                 dcc.Graph(id='number-new-EV-year', figure=jon2)
