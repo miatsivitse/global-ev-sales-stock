@@ -1,4 +1,6 @@
 # Tracking Global Data on Electric Vehicles
+Data on electric vehicle (EV) sales and the stock on the road across the world.
+Data sourced from the International Energy Agency's Annual Global EV Outlook, and visualizations 1-8 inspired by Our World in Data. 
 
 ![newplot (10)](https://github.com/user-attachments/assets/33271794-874b-4d0c-bbe5-415bb259f63b)
 #### EV Sales Share (2010-2023) by Region
