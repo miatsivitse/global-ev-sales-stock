@@ -1,1 +1,17 @@
-# Tracking global data on electric vehicles
+# Tracking Global Data on Electric Vehicles
+
+![Dash-RV1](https://github.com/user-attachments/assets/9c0e939d-7f09-4931-a3e6-5c465355626d)
+![Dash-RV2](https://github.com/user-attachments/assets/82eb5ee6-cda9-4823-88fb-6b32f0704bdf)
+![Dash-RV3](https://github.com/user-attachments/assets/3744508d-a025-48b9-8186-a4857c7bbf8b)
+![Dash-RV4](https://github.com/user-attachments/assets/881aa30f-661a-468e-a8e6-02e4b8b49c41)
+![Dash-RV5](https://github.com/user-attachments/assets/ab9f5b3f-f689-42e3-ab83-f0558051df69)
+![Dash-RV6](https://github.com/user-attachments/assets/423f674d-4be5-44d3-b3e1-b4b1d4605af7)
+![Dash-RV7](https://github.com/user-attachments/assets/659ec1f1-c551-4aec-8ee4-ee2f90826edf)
+![Dash-RV8](https://github.com/user-attachments/assets/93a46b6e-776e-4c41-8a9b-0d5a24900f32)
+![Dash-UV1](https://github.com/user-attachments/assets/3350c8f0-ed3c-4bd6-8c1c-d71eff8695bc)
+![Dash-UV2](https://github.com/user-attachments/assets/ea139178-9a38-4dca-8879-3677222d29a1)
+![Dash-UV3](https://github.com/user-attachments/assets/33f3b972-a9aa-4140-a35f-70205b18e2c4)
+![Dash-UV4](https://github.com/user-attachments/assets/1a04bad5-f69c-4610-bb91-8b5f310a6866)
+![Dash-UV5](https://github.com/user-attachments/assets/9c81e3f0-1d66-40b3-b021-ae7446eb5ec9)
+![Dash-UV6](https://github.com/user-attachments/assets/62d4bc78-5675-4bde-8b97-5c078accd7cf)
+![Dash-Conclusion](https://github.com/user-attachments/assets/f583695e-7398-4c71-9014-494b3df4fb82)
