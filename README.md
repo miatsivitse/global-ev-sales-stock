@@ -79,16 +79,12 @@ Most EV car sales are happening in Asia, Europe, and North America, with the oth
 
 ## Conclusion
 This collection of visualizations show the global trends of electric vehicle (EV) sales globally for the last decade and a half.
-Some key takeaways are as follows:EV sales are increasing globally, and the rate that they are increasing is also increasing! The world is starting to go electric.
+Some key takeaways are as follows: EV sales are increasing globally, and at an increasing rate.
 Looking at total cars on the road, China is unrivaled. Looking at percentage of cars on the road, or percentage of car sales, the undisputed kings of EVs are the Scandanavian countries of Norway and Sweden.
-While sales are going up globally, the rate of increase seems to be leveling off in some regions, like Europe
-The developing nations categorized as BRICS are lagging behind, but are slowly beginning to catch up in the EV revolution
-Full-batter electric cars are much more popular than hybrids in every region, although both are showing growth.
+While sales are going up globally, the rate of increase seems to be leveling off in some regions, like Europe.
+The developing nations categorized as BRICS are lagging behind, but are slowly beginning to catch up in the EV revolution.
+Full-battery electric cars are much more popular than hybrids in every region, although both are showing growth.
 As climate change continues to worsen, solutions like EV cars will be critical. The impact that EV cars have on lessening oil demand should not be underestimated. However, our group fears that it may be too-little too-late. Despite the increase in popularity, EV adoption is still very low globally.
-Perhaps solutions should be sought elsewhere. It is naive to think that the industry that has caused this global crisis is going to be reliably able to also come up with the solution.
-Out of all the predictive models, XGBoost seems to perform the best with the lowest MSE score, however, all the machine learning models do a poor job of predicting future data.
-Observing the ML models to actual projected data from the graphs, linear regression seems to perform the best with a steady increase over time.
-Time series models and neural networks such as SARIMA/ARIMA/LSTM may be better adapted for predicting future trends on this dataset.
 
 ### Data Source
 IEA (2024), Global EV Outlook 2024, IEA, Paris https://www.iea.org/reports/global-ev-outlook-2024, License: CC BY 4.0.
